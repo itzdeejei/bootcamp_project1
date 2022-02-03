@@ -21,7 +21,7 @@ h1{
 
 .choice{
 color: rgba(1,255,0,1) ;
-font-size: 40px;
+font-size: 30px;
 margin-bottom: 50px;
 margin-left: 45%;
 margin-right: 45%;
@@ -29,9 +29,7 @@ background-color: black;
 border-radius: 45%;
 }
 
-#ch3{
-    font-size: 30px;
-}
+
 #imgg{
     text-align: center;
     display: contents;
